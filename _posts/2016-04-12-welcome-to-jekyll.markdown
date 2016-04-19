@@ -18,6 +18,12 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+## Lite info att flytta till senare post när jag hittat info om det
+
+*Trädstrukturen* i en standard Jekyllsite finns på[denna sida](https://jekyllrb.com/docs/structure/).
+
+
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
